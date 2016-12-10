@@ -1,0 +1,13 @@
+.wrapper{
+	width: 720px;
+	margin: 0 auto;
+}
+address{
+	float: left;
+}
+.picture{
+	float: left;
+}
+.clear{
+	clear: both;
+}
